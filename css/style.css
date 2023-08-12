@@ -4,6 +4,7 @@ html {
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
+	min-width: 1150px;
 }
 /* header {
       display: flex; maybe add % min hieght and width? margins?
